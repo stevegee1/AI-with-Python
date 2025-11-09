@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+.python-version
+.python-version
+MNIST_data/
+__pycache__/
+venv/
